@@ -33,17 +33,9 @@ body{
     justify-content: center;
  
 }
-
-.subject{
-    position: relative;
-    background: url(images/abhi.png);
-    background-size: cover;
-}
-
 img{
     width: 35vw;
 }
-
         /* from FIGMA */
 
         /* text */
